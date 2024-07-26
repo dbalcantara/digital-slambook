@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "904986759992",
+    "project_id": "week8-exer",
+    "storage_bucket": "week8-exer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904986759992:android:11e59d6b4d3f6f5b7ce7cd",
+        "android_client_info": {
+          "package_name": "com.example.week8datapersistence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904986759992-b8o8emu16jiihs5kn359l28n489tq5ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVDOhF53pLcT4qtt01utqkNXVYEFpePV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904986759992-b8o8emu16jiihs5kn359l28n489tq5ns.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "904986759992-mnbcjcn7n2r1i09m4ia8l6tuckcb8qr1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.week8datapersistence"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
