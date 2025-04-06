@@ -1,9 +1,4 @@
-# FINAL PROJECT  program description, installation guide, and how to use the
-app.
-
-**Name:** Denisse Alcantara <br/>
-**Section:** U-2L <br/>
-**Student number:** 2022 - 11877 <br/>
+# Program description, installation guide, and how to use the pp.
 
 ## Program Description
 
